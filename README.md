@@ -1,2 +1,2 @@
-# VS2015Projects
-2015 visual studios projects
+# VS2015FlashApplicationProjects
+2015 visual studios Flash Application projects
